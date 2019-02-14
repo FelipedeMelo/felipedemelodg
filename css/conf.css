@@ -34,12 +34,12 @@
 			font-family: roboto Condensed;
 			}
 		/*logo*/
-			.logo{grid-area: 1/1/2/4;}
+		.logo{grid-area: 1/1/2/4;}
 		/*contatos*/
 		.contatos{
 				grid-area: 2/1/4/4;
 				margin: auto 0;
-				color: rgb(102,102,102);
+				color: red;
 			}
 		.contatos p{font-weight: 300;}
 		/*buscador*/
