@@ -39,7 +39,7 @@
 		.contatos{
 				grid-area: 2/1/4/4;
 				margin: auto 0;
-				color: rgb(202, 202, 202);
+				color: rgb(102, 102, 102);
 			}
 		.contatos p{font-weight: 300;}
 		/*buscador*/
